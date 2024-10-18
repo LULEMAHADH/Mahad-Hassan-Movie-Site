@@ -5,14 +5,14 @@
     font-family: sans-serif;
 }
 .home{
-    background-color:rgb(22, 22, 59);
+    background-color:black;
     color: white;
 }
 .navbar{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: hsl(0, 59%, 41%);
+    background-color:red;
     padding: 2px;
     color: white;
     margin-bottom: 15px;
@@ -125,7 +125,7 @@ button{
     width: 100%;
     margin-top: 20px;
     padding: 10px;
-    background-color: brown;
+    background-color:black;
     text-align: center;
     font-family: sans-serif;
     display: flex;
@@ -143,7 +143,7 @@ li a{
     color: white;
 }
 footer{
-    background-color: brown;
+    background-color:black;
 }
 .news{
     margin-top: 20px;
